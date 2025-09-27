@@ -1,0 +1,5 @@
+{
+  "name": "Deep Research Platform",
+  "description": "An AI-powered platform that performs deep, agentic research on any topic, culminating in a professionally generated academic paper. It uses a multi-agent system to generate queries, synthesize information, debate findings, and create novel insights.",
+  "requestFramePermissions": []
+}
